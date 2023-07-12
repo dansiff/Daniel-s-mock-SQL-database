@@ -31,6 +31,7 @@
     <DocumentationFile>bin\Release\netstandard2.0\SqlKata.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="SqlKata.Execution" Version="2.4.0" />
     <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
   </ItemGroup>
 </Project>
