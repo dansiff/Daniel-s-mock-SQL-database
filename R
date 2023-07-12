@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
     <strong>SqlKata Query Builder</strong>
 </p>
 <p align="center">
